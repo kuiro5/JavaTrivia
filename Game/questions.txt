@@ -1,0 +1,28 @@
+What type of data member can only be accessed and modified within its class?
+1
+2
+protected
+public
+private
+int
+What keyword must be added to a class in which a function is declared but not implemented?
+2
+0
+abstract
+public
+void
+extends
+What is the name of the loop exclusive to Java that makes it easier to output data?
+3
+3
+while loop
+do while loop
+for loop
+enhanced for loop
+What type of listener is most commonly used for JButtons?
+3
+2
+KeyListener
+ItemListener
+ActionListener
+MouseListner

@@ -1,0 +1,21 @@
+What type of data member can only be accessed and modified within its class?
+1
+2
+0. protected
+1. public
+2. private
+3. int
+What keyword must be added to a class in which a function is declared but not implemented?
+2
+0
+0. abstract
+1. public
+2. void
+3. extends
+What is the name of the loop exclusive to Java that makes it easier to output data?
+3
+3
+0. while loop
+1. do while loop
+2. for loop
+3. enhanced for loop
